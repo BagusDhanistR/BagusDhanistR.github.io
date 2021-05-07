@@ -1,35 +1,35 @@
 document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
-      name: 'Bagus',
+      name: 'bagus',
       img: 'images/bagus.jpg'
     },
     {
-      name: 'Bagus',
+      name: 'bagus',
       img: 'images/bagus.jpg'
     },
     {
-      name: 'Andhika',
+      name: 'andhika',
       img: 'images/andhika.jpg'
     },
     {
-      name: 'Andhika',
+      name: 'andhika',
       img: 'images/andhika.jpg'
     },
     {
-      name: 'Panji',
+      name: 'panji',
       img: 'images/panji.jpg'
     },
     {
-      name: 'Panji',
+      name: 'panji',
       img: 'images/panji.jpg'
     },
     {
-      name: 'Jasper',
+      name: 'jasper',
       img: 'images/jasper.jpg'
     },
     {
-      name: 'Jasper',
+      name: 'jasper',
       img: 'images/jasper.jpg'
     }
   ]
